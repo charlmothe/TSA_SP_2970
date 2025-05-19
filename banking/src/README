@@ -1,0 +1,39 @@
+About The Project:
+
+    This banking application is perfect for those who want to keep a concise record of your past purchases and income. I noticed my parent have always kept a hard record of thei purchases with checks in their check books. While theres nothing wrong with this, It seems so oldschool in our modern world where we can used advanced technology to hold all of our information. This way, we cant lose all of our records thanks to it being held on databases instead of our purses or wallets. 
+    
+    Heres how this program makes tracking your finances easier-
+    1) This program uses a variety of resuorces to make it as easy as possible for people to interact with. it uses a GUI based strutcure so that all can use it with little to no effort. 
+    2)it is all hosted on an SQL server so that any device can download it and easily access the information stored in it.
+    3) it contains a helpful AI assistant that you can ask to help you have smarter finances
+
+    the application is still a work in progress as all good programs should be and I hope for there to be many new, 
+    interesting features in the soon future.
+
+Built With:
+
+    * MySQL workbench
+    * Google Cloud MYSQL server
+    * OpenAI API
+    * SQL API
+    * JavaX Swing
+    * VS Code
+
+Getting Started:
+
+    Prerequsites- 
+        * Download the latest version of the Java JDK at https://www.oracle.com/java/technologies/downloads/
+        * (if you would like to locally host your own server) Download MySQL workbench at https://www.mysql.com/products/workbench/
+
+    After you have these prerequisites its as simple as dowloading the app and running the program
+
+
+
+Acknoledgements:
+
+    Emery Faulkner, who taught us everything we know about CS
+
+    Link to tuturials used:
+    https://youtu.be/phYuQWRaazw?si=uq5FtOI3qqUOVcHd
+    https://www.youtube.com/watch?v=9ntKSLLDeSs&t=412s
+    https://www.youtube.com/watch?v=TkJ2dFtD0ho
